@@ -8,3 +8,5 @@ Maze-Generator-Rust
 `arg1`:  图片宽度  
 `arg2`:  图片高度  
 `arg3`:  保存路径  
+
+*所有偶数图片长度都会减一*
